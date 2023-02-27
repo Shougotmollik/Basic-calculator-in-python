@@ -22,8 +22,5 @@ else:
 
 
 
-
-
-
 #coded by Shougot mollik
 
